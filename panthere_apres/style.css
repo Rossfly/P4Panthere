@@ -778,6 +778,7 @@ h4 {
 
 .bgc-atomic-tangerine {
     background-color: rgb(148,54,11);
+}
 
 .tc-white {
     color: rgb(252,207,111)!important
@@ -872,7 +873,7 @@ h4 {
     .b-parallax {
         background-attachment: scroll;
     }
-    .page-container,
+    .header,
     #hero-bloc {
         overflow-x: hidden;
         position: relative;
@@ -895,7 +896,7 @@ h4 {
 }
 
 @media (max-width: 767px) {
-    .page-container {
+    .header {
         overflow-x: hidden;
         position: relative;
     }
