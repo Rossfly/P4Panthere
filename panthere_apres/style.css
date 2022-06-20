@@ -28,6 +28,15 @@ a:hover {
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
 
+
+
+
+.form-contact p {
+margin-top: 20px;
+    font-size: 15px;
+
+}
+
 .bloc {
     width: 100%;
     clear: both;
@@ -867,9 +876,7 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-    .bloc {
-        
-    }
+
     .bloc-group,
     .bloc-group .bloc {
         display: block;
