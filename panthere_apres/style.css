@@ -38,11 +38,28 @@ text-align: center;
     text-align: center;
     }
 
+
+.texte-basdepage-blanc p {
+        font-size: 15px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+}
+
 .form-contact p {
 margin-top: 20px;
     font-size: 15px;
 }
 
+.titre-page-texte p {
+    font-size: 15px;
+    text-align: center;
+    }
+
+    .text-central p {
+        font-size: 15px;
+        text-align: center;
+        }
+    
 .bloc {
     width: 100%;
     clear: both;
@@ -666,7 +683,6 @@ h3,
 h4,
 h5,
 h6,
-p,
 label,
 .btn,
 a {
