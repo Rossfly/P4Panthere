@@ -29,16 +29,18 @@ a:hover {
 }
 
 .texte-clients p{
-color: blueviolet;
 font-size: 20px;
 text-align: center;
 }
 
+.texte-basdepage p{
+    font-size: 15px;
+    text-align: center;
+    }
 
 .form-contact p {
 margin-top: 20px;
     font-size: 15px;
-
 }
 
 .bloc {
